@@ -1,0 +1,11 @@
+{
+    "name": "andler_yangming/composer_test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "yangming",
+            "email": "yangming@shein.com"
+        }
+    ],
+    "require": {}
+}
