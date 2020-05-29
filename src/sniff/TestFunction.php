@@ -6,7 +6,7 @@
  * Time: 16:09
  */
 
-namespace \ComposerTest\Sniff;
+namespace ComposerTest\sniff;
 
 class TestFunction
 {
