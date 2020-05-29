@@ -14,4 +14,8 @@ class TestFunction
         return "hello,world!";
     }
 
+    function help(){
+        return 'just a test to demo component';
+    }
+
 }
