@@ -7,5 +7,10 @@
             "email": "yangming@shein.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ComposerTest\\": "src/"
+        }
+    }
 }
