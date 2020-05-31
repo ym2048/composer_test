@@ -18,4 +18,8 @@ class TestFunction
         return 'just a test to demo component';
     }
 
+    function v6(){
+        return "v6";
+    }
+
 }
