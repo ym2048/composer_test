@@ -21,5 +21,9 @@ class TestFunction
     function v6(){
         return "v6";
     }
+    
+    function v7(){
+        return "v7";
+    }
 
 }
